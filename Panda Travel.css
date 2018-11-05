@@ -1,0 +1,35 @@
+/*
+Maura Sanders
+November 6, 2018
+Panda Travel
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+
+body  {
+
+    width: 80%;
+    margin: auto;
+    
+background-color: blanchedalmond
+
+}
+#theater {
+    width: 600px;
+    height: 400px;
+}
+#outside {
+    width: 600px;
+    height: 400px
+}
+#preformance {
+    width: 600px;
+    height: 300px;
+}
